@@ -1,6 +1,4 @@
 # real-estate-analytics
-For this repo, I’d make the README look professional but still clearly show that it is an evolving personal real-estate analytics project.
-
 RealEstateAnalytics
 
 A practical real-estate analytics project combining Python, SQL, Excel and data analysis to support commercial real-estate research, underwriting, valuation and portfolio analysis.
